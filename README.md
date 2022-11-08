@@ -2,7 +2,7 @@
 <main>
   - 🏴󠁩󠁤󠁪󠁷󠁿 Currently learning Java<br>
   - 👯 I’m currently collaborating on Universit's System Development<br>
-  - 📫 <a href="mat_mv.bio.link">Reach Me 👈</a><br>
+  - 📫 <a href="https://mat_mv.bio.link">Reach Me 👈</a><br>
   <br>
   <div>
     <a href="https://github.com/matmv21">
