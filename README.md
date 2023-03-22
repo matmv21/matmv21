@@ -1,12 +1,11 @@
 ## Hi there 👋
 <main>
-  - ✨󠁩󠁤󠁪󠁷󠁿 Currently learning Java<br>
-  - 👯 I am currently collaborating in the development of a system for the university.<br>
-  - Fascinated by code.<br>
-  - 📫 Reach Me 👈 <a href="https://mat_mv.bio.link">Click here</a><br>
+  - ✨󠁩󠁤󠁪󠁷󠁿 Currently coolaborating in a web system development<br>
+  - :pager: Improving my skills on algorithms everyday<br>
+  - :computer: Fascinated by code and its possibilities<br>
   <br>
   <div>
-    <h3>Programming Languages</h3>
+    <h3>Skills</h3>
     <hr>
     <div align="center">
     <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
