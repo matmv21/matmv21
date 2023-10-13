@@ -1,11 +1,10 @@
 ## Hi there 👋
 <main>
-  - ✨󠁩󠁤󠁪󠁷󠁿 Currently coolaborating in a web system development<br>
-  - :pager: Improving my skills on algorithms everyday<br>
-  - :computer: Fascinated by code and its possibilities<br>
+  - :mortar_board:󠁩󠁤󠁪󠁷󠁿 Computer Science Student - 5º Semester<br>
+  - :pager: Currently learning Mobile and Web Development<br>
   <br>
   <div>
-    <h3>Skills</h3>
+    <h3>Experience in</h3>
     <hr>
     <div align="center">
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
