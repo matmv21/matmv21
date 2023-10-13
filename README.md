@@ -10,7 +10,7 @@
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" />
+    <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
     <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     </div>
   </div>
