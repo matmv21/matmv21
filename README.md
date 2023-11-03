@@ -18,7 +18,7 @@
       <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &ensp;
       <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> &emsp;
       <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> &emsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> &emsp;
+      <img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> &emsp;
     </div>
   </div>
 </main>
